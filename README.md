@@ -9,3 +9,7 @@
 - 零件管理
 - 零件部位管理
 - 折扣等級管理
+
+
+
+Preview: [https://nt46.github.io/TCM_DEMO/](https://nt46.github.io/TCM_DEMO/)
